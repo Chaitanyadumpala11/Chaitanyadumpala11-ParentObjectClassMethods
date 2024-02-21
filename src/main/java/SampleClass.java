@@ -76,7 +76,7 @@ public class SampleClass {
     }
 
     
-    @Override
+    
     public String toString() {
        
         return "SampleClass: [a=" + a + ", b=" + b + "]";
